@@ -1,0 +1,2 @@
+rootProject.name = "Yflixster"
+include ':app'
